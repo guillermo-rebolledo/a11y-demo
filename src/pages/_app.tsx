@@ -27,7 +27,7 @@ export default function App({ Component, pageProps }: AppProps) {
                 className="text-sm font-medium hover:underline underline-offset-4"
                 href="/do-not-try-this-at-home"
               >
-                Don't try this at home
+                Do not try this at home
               </Link>
               <Link
                 className="text-sm font-medium hover:underline underline-offset-4"
